@@ -1,0 +1,1 @@
+This is a repository for all the assignments I will be doing through the exercism.io site.
